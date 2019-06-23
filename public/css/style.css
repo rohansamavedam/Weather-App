@@ -1,0 +1,35 @@
+body{
+    color: #333333;
+    font-family: arial;
+    max-width: 650px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0 16px;
+}
+
+footer{
+    position: absolute;
+    color: #888888;
+    border-top: 1px solid #eeeeee;
+    padding: 16px;
+    bottom: 0;
+}
+
+h1{
+    font-size: 64px;
+}
+
+a{
+    color: #888888;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+input{
+    padding: 10px;
+}
+
+button{
+    padding: 10px;
+    border-radius: 5px;
+}
