@@ -1,4 +1,4 @@
-console.log('client side javascript file')
+
 
 const form = document.querySelector('form')
 const search = document.querySelector('input')
